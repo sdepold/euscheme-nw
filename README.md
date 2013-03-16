@@ -2,7 +2,7 @@
 
 app.net Linux client
 
-## Founding and donations
+## Funding and donations
 
 - flattr: [![flattr euscheme development](http://api.flattr.com/button/flattr-badge-large.png)](http://flattr.com/thing/1179585/)
 - Ƀ: `1BerLin9UbM8HTUhwbrvvLpt2RjLUVt1h9`
