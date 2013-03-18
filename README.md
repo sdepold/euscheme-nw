@@ -1,6 +1,6 @@
 # euscheme-nw
 
-app.net linux desktop client, based on [node-webit](https://github.com/rogerwang/node-webkit)
+app.net linux desktop client, based on [node-webkit](https://github.com/rogerwang/node-webkit)
 
 
 ## more
